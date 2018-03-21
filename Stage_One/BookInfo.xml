@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BOOK xmlns="http://www.example.org"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.example.org/BookInfo">
+	<book ID="8">
+		<name>Java</name>
+		<price>50.0</price>
+		<author>Jason</author>
+	</book>
+	<book ID="12">
+		<name>Web</name>
+		<price>120.0</price>
+		<author>Jason</author>
+	</book>
+</BOOK>
